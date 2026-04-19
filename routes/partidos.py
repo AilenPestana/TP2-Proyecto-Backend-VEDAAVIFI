@@ -14,7 +14,6 @@ def get_partidos():
     # 2. Base de la consulta (WHERE 1=1 permite concatenar AND libremente) 
     filtros_sql = "WHERE 1=1"
     params = []  # lista de valores que reemplazarán los %s
-
     # 3. Filtros dinámicos
 
     # Filtro equipo: busca en ambas columnas con OR dentro del mismo AND
