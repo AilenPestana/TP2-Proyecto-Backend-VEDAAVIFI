@@ -47,7 +47,7 @@ def crear_partido():
         cursor.close()
         conn.close()
 
-        # Respuesta 201 Created según contrato
+        # Respuesta 201 Created según contrato 
         return "", 201
 
     except Exception as e:
