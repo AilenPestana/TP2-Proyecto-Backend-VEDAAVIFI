@@ -55,4 +55,3 @@ def listar_usuarios():
         "total": total,
         "links": links
     }), 200
-
