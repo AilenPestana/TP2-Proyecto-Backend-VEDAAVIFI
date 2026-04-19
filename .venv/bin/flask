@@ -1,4 +1,4 @@
-#!/home/aichupes/proyecto/.venv/bin/python3
+#!/home/nacho/Desktop/TP2-Proyecto-Backend-VEDAAVIFI/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
