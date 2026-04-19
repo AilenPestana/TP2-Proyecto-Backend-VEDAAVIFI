@@ -77,4 +77,4 @@ def eliminar_partido(id):
 
     except Exception as e:
          return generar_error("Error al eliminar", "SERVER_ERROR", 
-    descripcion=str(e)), 500
+    descripcion=str(e)), 500 
