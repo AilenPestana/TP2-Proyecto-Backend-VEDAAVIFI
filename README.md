@@ -8,7 +8,7 @@
 - Delfina Rodriguez
 - Ignacio Ayala
 - Ignacio Zamparolo
-- Emilia Arroyo
+- Emilce Arroyo
 - Franco Requejo
 - Abril Yebara
 ## Requisitos
